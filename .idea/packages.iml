@@ -9,6 +9,15 @@
       <excludeFolder url="file://$MODULE_DIR$/custom_widgets/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/custom_widgets/build" />
       <excludeFolder url="file://$MODULE_DIR$/custom_widgets/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/custom_widgets/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/custom_widgets/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/custom_widgets/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/firestore_service/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/firestore_service/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/firestore_service/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/firebase_auth_service/build" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/firebase_auth_service/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/packages/firebase_auth_service/.dart_tool" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
